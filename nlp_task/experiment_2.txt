@@ -1,0 +1,3 @@
+Params: {'seed': 42, 'temperature': 1.2, 'max_length': 100}
+
+A legendary sword hidden in a cursed mountain awaits a hero. The secret weapon was brought here in the Dark Realms by Ayn Rand and then transferred to the Blackwood Forest for testing. For this reason the Sword of Death, a mystical sword that is used in other races.

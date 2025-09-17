@@ -1,0 +1,3 @@
+Params: {'seed': 42, 'temperature': 0.8, 'max_length': 100}
+
+A legendary sword hidden in a cursed mountain awaits a hero. The secret weapon was found at a cave entrance near the entrance to the village of Kaelel, which is located in the northern part of the village. The item was discovered during a raid on the mountain. A key to the item is found on the ground level of the cave entrance. The item has a chance to be used by a hero or a person. When a hero dies, a magic wand, an enchanted sword, or a
