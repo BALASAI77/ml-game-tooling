@@ -1,0 +1,5 @@
+torch==2.0.1
+trimesh
+pillow
+transformers==4.56.1
+numpy==2.0.2
