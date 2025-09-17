@@ -1,3 +1,10 @@
+# COLLAB LINKS:
+#Text_to3d_model:
+https://colab.research.google.com/drive/1KxiHZelc3icE-rb9b6ZBa6L6HNjPd5At?usp=sharing
+
+#Quest_generator:
+https://colab.research.google.com/drive/1O_9YR7z1k9-UZcZSVo1v4Y7yBG1ofGe3?usp=sharing
+
 # ML Tooling for Game Development: Text-to-3D and Fantasy Quest Generator
 
 This project, developed for the "Hiring Assignment – ML Tooling for Game Development," includes two components: a **Text-to-3D Model Generator** using OpenAI's [Shap-E](https://github.com/openai/shap-e) to create game-ready 3D assets (OBJ, GLB, PLY) with animated GIF visualizations, and a **Fantasy Quest Generator** using Hugging Face's `distilgpt2` to produce quest narratives for game integration. Both tools are CPU-friendly, support parameter experimentation (e.g., seed, guidance scale, temperature), and include interactive interfaces, sample outputs, and metrics for game compatibility, hosted in a GitHub repository with comprehensive documentation.
